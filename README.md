@@ -2,7 +2,7 @@
 
 MultiPath-TCP
 
-## Project distribution:
+## Project description:
 https://docs.google.com/document/d/1-85Sw4KSLfA_8vCNIyLAU57E78Kjvl-Kvprio2yNVKg/pub
 
 ## Usage:
