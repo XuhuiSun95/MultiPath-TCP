@@ -2,10 +2,10 @@
 
 MultiPath-TCP
 
-##Project distribution
+## Project distribution:
 https://docs.google.com/document/d/1-85Sw4KSLfA_8vCNIyLAU57E78Kjvl-Kvprio2yNVKg/pub
 
-##Usage
+## Usage:
 
 mptcp [ -n num_interfaces ] [ -h hostname ] [ -p port ] [ -f filename ]
 
